@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/huyvoxuan/apigees/issues"
   },
-  "homepage": "https://github.com/huyvoxuan/apigees#readme"
+  "homepage": "https://github.com/huyvoxuan/apigees#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
